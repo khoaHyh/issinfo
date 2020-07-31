@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/issinfo/static/css/main.fbe42135.chunk.css",
+    "main.js": "/issinfo/static/js/main.404dc43f.chunk.js",
+    "main.js.map": "/issinfo/static/js/main.404dc43f.chunk.js.map",
+    "runtime-main.js": "/issinfo/static/js/runtime-main.637ae129.js",
+    "runtime-main.js.map": "/issinfo/static/js/runtime-main.637ae129.js.map",
+    "static/css/2.7c35e809.chunk.css": "/issinfo/static/css/2.7c35e809.chunk.css",
+    "static/js/2.dd3bda34.chunk.js": "/issinfo/static/js/2.dd3bda34.chunk.js",
+    "static/js/2.dd3bda34.chunk.js.map": "/issinfo/static/js/2.dd3bda34.chunk.js.map",
+    "index.html": "/issinfo/index.html",
+    "precache-manifest.be6c126f61feb42a745f8e51c6878b5d.js": "/issinfo/precache-manifest.be6c126f61feb42a745f8e51c6878b5d.js",
+    "service-worker.js": "/issinfo/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/issinfo/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.fbe42135.chunk.css.map": "/issinfo/static/css/main.fbe42135.chunk.css.map",
+    "static/js/2.dd3bda34.chunk.js.LICENSE.txt": "/issinfo/static/js/2.dd3bda34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.637ae129.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.dd3bda34.chunk.js",
+    "static/css/main.fbe42135.chunk.css",
+    "static/js/main.404dc43f.chunk.js"
+  ]
+}
